@@ -3080,7 +3080,7 @@ BRICS台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 日本华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 ShopChannel，http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日テレnews24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 环球频道,http://live.cgtn.com/500/prog_index.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
