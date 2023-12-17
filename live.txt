@@ -842,7 +842,7 @@ CCTV中央新影-发现之旅,http://49.235.110.121:9090/daili/小果.php?id=fxz
 内蒙古卫视,http://49.235.110.121:9090/daili/小果.php?id=nmgws_4000&Cf.m3u8
 黑龙江卫视,http://49.235.110.121:9090/daili/小果.php?id=hljwsH265_4000&Cf.m3u8
 
-香港卫视.576,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
 地方频道,#genre#
